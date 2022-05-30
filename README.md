@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anthony10057318
 - 👀 I’m interested in ...  A Blockchain Developer Job
-- 🌱 I’m currently learning ... Solidity, Plutus ,Python, Web 3.0
+- 🌱 I’m currently learning ... HTML,CSS, Javascript, Solidity, Plutus ,Python, Web 3.0
 - 💞️ I’m looking to collaborate on ... Open 
 - 📫 How to reach me ... adj10057318@gmail.com or Text 
 
